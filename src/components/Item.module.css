@@ -1,0 +1,12 @@
+.Button{
+    float:right;
+}
+
+.KgItem{
+    background-color:khaki;
+}
+
+.KgSpan{
+    font-weight:500;
+    color:orangered;
+}
